@@ -2,6 +2,8 @@
 
 # view-todo v1.8.5 [![Circle CI](https://circleci.com/gh/kt3k/view-todo.svg?style=svg)](https://circleci.com/gh/kt3k/view-todo) [![codecov.io](https://codecov.io/github/kt3k/view-todo/coverage.svg?branch=master)](https://codecov.io/github/kt3k/view-todo?branch=master)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kt3k/view-todo.svg)](https://greenkeeper.io/)
+
 > TODO.md viewer app.
 
 # Install
